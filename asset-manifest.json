@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://stutisk.github.io/csb-qw2sv1/static/css/main.491e01ee.chunk.css",
+    "main.js": "https://stutisk.github.io/csb-qw2sv1/static/js/main.26d178af.chunk.js",
+    "main.js.map": "https://stutisk.github.io/csb-qw2sv1/static/js/main.26d178af.chunk.js.map",
+    "runtime-main.js": "https://stutisk.github.io/csb-qw2sv1/static/js/runtime-main.5823988c.js",
+    "runtime-main.js.map": "https://stutisk.github.io/csb-qw2sv1/static/js/runtime-main.5823988c.js.map",
+    "static/js/2.8b566948.chunk.js": "https://stutisk.github.io/csb-qw2sv1/static/js/2.8b566948.chunk.js",
+    "static/js/2.8b566948.chunk.js.map": "https://stutisk.github.io/csb-qw2sv1/static/js/2.8b566948.chunk.js.map",
+    "index.html": "https://stutisk.github.io/csb-qw2sv1/index.html",
+    "static/css/main.491e01ee.chunk.css.map": "https://stutisk.github.io/csb-qw2sv1/static/css/main.491e01ee.chunk.css.map",
+    "static/js/2.8b566948.chunk.js.LICENSE.txt": "https://stutisk.github.io/csb-qw2sv1/static/js/2.8b566948.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5823988c.js",
+    "static/js/2.8b566948.chunk.js",
+    "static/css/main.491e01ee.chunk.css",
+    "static/js/main.26d178af.chunk.js"
+  ]
+}
